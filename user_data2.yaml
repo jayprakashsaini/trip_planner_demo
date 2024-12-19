@@ -1,0 +1,84 @@
+USERS:
+  jayprakashsaini549@gmail.com:
+    Email: jayprakashsaini549@gmail.com
+    Name: Jayprakash Saini
+    Password: 12345
+    Polls:
+    - 35267
+    Trips:
+    - 26729
+    - 78902
+  namannahar@gmail.com:
+    Email: namannahar@gmail.com
+    Name: Naman Nahar
+    Password: 0
+    Polls:
+    - 35267
+    Trips:
+    - 26729
+    - 78902
+
+
+POLLS:
+  35267:
+    Options: Ratanmahal:[] Jawai:[] Jambughoda:[]
+    Users: jayprakashsaini549@gmail.com
+TRIPS:
+  26729:
+    Destination: Ratanmahal
+    Name: Ratanmahal Trip
+    Polls:
+    - 35267
+    Trip Id: 26729
+    Users: jayprakashsaini549@gmail.com
+USERS:
+  jayprakashsaini549@gmail.com:
+    Email: jayprakashsaini549@gmail.com
+    Friends:
+      Ids:
+      - mihirdave@gmail.com
+      - spjoshi@gmail.com
+      Request Received:
+      - null
+      Request Sent:
+      - null
+    Name: Jayprakash Saini
+    Password: 12345q
+    Polls:
+    - 35267
+    Trips:
+    - 26729
+    - 78902
+  mihirdave@gmail.com:
+    Email: mihirdave@gmail.com
+    Name: Mihir Dave
+    Password: qwerty
+    Friends:
+      Ids: [ ]
+      Request Received: [ ]
+      Request Sent: [ ]
+  namannahar@gmail.com:
+    Email: namannahar@gmail.com
+    Name: Naman Nahar
+    Password: qwerty
+    Friends:
+      Ids: [ ]
+      Request Received: [ ]
+      Request Sent: [ ]
+  shashikhade@gmail.com:
+    Email: shashikhade@gmail.com
+    Friends:
+      Ids: []
+      Request Received: []
+      Request Sent: []
+    Name: Shashikant Khade
+    Password: qwerty
+    Trips: []
+  spjoshi@gmail.com:
+    Email: spjoshi@gmail.com
+    Name: S P Joshi
+    Password: qwe
+    Friends:
+      Ids: [ ]
+      Request Received: [ ]
+      Request Sent: [ ]

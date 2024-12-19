@@ -1,0 +1,134 @@
+POLLS:
+  35267:
+    Options: Ratanmahal:[] Jawai:[] Jambughoda:[]
+    Users: jayprakashsaini549@gmail.com
+  '1734384643294':
+    Options:
+    - Ratanmahal: 0
+    - Jambughoda: 0
+    - Jawai: 0
+    Question: Where to go??
+  '1734384661956':
+    Options:
+    - High: 0
+    - Low: 0
+    Question: Hows the josh?
+TRIPS:
+  26729:
+    Destination: Ratanmahal
+    Name: Ratanmahal Trip Second
+    Polls:
+    - 35267
+    Trip Id: 26729
+    Users:
+      - jayprakashsaini549@gmail.com
+  Trip1734384894446:
+    Name: Ratanmahal trip
+    Polls:
+    - '1734384643294'
+    - '1734384661956'
+    TripId: Trip1734384894446
+    Users:
+    - jayprakashsaini549@gmail.com
+    - mihirdave@gmail.com
+    - shashikhade@gmail.com
+    - namannahar@gmail.com
+USERS:
+  jayprakashsaini549@gmail.com:
+    Email: jayprakashsaini549@gmail.com
+    Friends:
+      Ids:
+      - mihirdave@gmail.com
+      - namannahar@gmail.com
+      - shashikhade@gmail.com
+      - mihirdfdave@gmail.com
+      - namahjnnahar@gmail.com
+      - shaskjhikhade@gmail.com
+      - mihirdkgfave@gmail.com
+      - namannghjahar@gmail.com
+      - shashisfkhade@gmail.com
+      - mihirdghfdave@gmail.com
+      - namahjnrenahar@gmail.com
+      - shaskjhiwrkhade@gmail.com
+      - mihirdwdave@gmail.com
+      - namannahwwwear@gmail.com
+      - shashikeeeehade@gmail.com
+      - mihirdfdavthghe@gmail.com
+      - namahjnnfffahar@gmail.com
+      - shaskjhiffffffffkhade@gmail.com
+      - mihirdkghhhhhhfave@gmail.com
+      - namannghjbbbbbbahar@gmail.com
+      - shashisfkhhhhhhade@gmail.com
+      - mihirdghhhhhhfdave@gmail.com
+      - namahjnrenahhhhhar@gmail.com
+      - shaskjhiwrkhwwwwwade@gmail.com
+      Request Received: []
+      Request Sent: []
+    Name: Jayprakash Saini
+    Password: 12345q
+    Polls:
+    - 35267
+    - '1734384643294'
+    - '1734384661956'
+    Trips:
+    - 26729
+    - 78902
+    - Trip1734384894446
+  mihirdave@gmail.com:
+    Email: mihirdave@gmail.com
+    Friends:
+      Ids:
+      - jayprakashsaini549@gmail.com
+      Request Received:
+      - namannahar@gmail.com
+      Request Sent: []
+    Name: Mihir Dave
+    Password: qwerty
+    Polls:
+    - '1734384643294'
+    - '1734384661956'
+    Trips:
+    - Trip1734384894446
+  namannahar@gmail.com:
+    Email: namannahar@gmail.com
+    Friends:
+      Ids:
+      - jayprakashsaini549@gmail.com
+      - shashikhade@gmail.com
+      - spjoshi@gmail.com
+      Request Received: []
+      Request Sent:
+      - mihirdave@gmail.com
+    Name: Naman Nahar
+    Password: qwerty
+    Polls:
+    - '1734384643294'
+    - '1734384661956'
+    Trips:
+    - Trip1734384894446
+  shashikhade@gmail.com:
+    Email: shashikhade@gmail.com
+    Friends:
+      Ids:
+      - namannahar@gmail.com
+      - jayprakashsaini549@gmail.com
+      Request Received: []
+      Request Sent: []
+    Name: Shashikant Khade
+    Password: qwerty
+    Polls:
+    - '1734384643294'
+    - '1734384661956'
+    Trips:
+    - Trip1734384894446
+  spjoshi@gmail.com:
+    Email: spjoshi@gmail.com
+    Friends:
+      Ids:
+      - namannahar@gmail.com
+      Request Received: []
+      Request Sent: []
+    Name: S P Joshi
+    Password: qwe
+    Polls: []
+    Trips: []
