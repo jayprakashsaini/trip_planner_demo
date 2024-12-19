@@ -241,6 +241,4 @@ def AddTripToDatabase():
     response = (result, 200, {'Content-Type': 'text/json', 'Access-Control-Allow-Origin': 'http://localhost:3000'})
     return response
 
-if __name__ == '__main__':
-    app.run(debug=True)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
