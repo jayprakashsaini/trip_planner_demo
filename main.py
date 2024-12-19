@@ -37,6 +37,8 @@ def create_a_file():
     file_path = r"C:\Users\Jayprakash\Desktop\AppDB\newfile" + str(random.randint(10000,1000000)) + r".txt"
     with open(file_path,'w') as file:
         file.write("uwejsddddddddddddd"*1000)
+    d = {"Succesfull":"True"}
+    return (d, 200, {'Content-Type': 'text/json', 'Access-Control-Allow-Origin': 'http://localhost:3000'})
 
 @app.route("/details")
 def getDetails():
