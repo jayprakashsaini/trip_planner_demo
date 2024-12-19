@@ -1,5 +1,4 @@
 flask
 Gunicorn
-yaml
-random
+pyyaml
 ast
